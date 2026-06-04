@@ -16,4 +16,4 @@ If you have any question about this policy, contact: **[your support email]**.
 
 ColorLayerSplitter ne collecte, ne stocke, ne transmet et ne partage aucune donnée personnelle ni contenu utilisateur. Tout le traitement se fait **localement** dans Adobe Photoshop, sur la machine de l'utilisateur. Le plugin n'effectue **aucune requête réseau** et n'utilise **ni analytics ni suivi**.
 
-Contact : **[votre e-mail de support]**.
+Contact : richardmaillot@mac.com
