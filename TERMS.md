@@ -29,8 +29,7 @@ The Plugin collects no data. See the Privacy Policy: PRIVACY.md.
 These terms may be updated. Continued use after an update constitutes acceptance of the new terms.
 
 ## 7. Contact
-[your support email]
-
+richardmaillot@me.com
 ---
 
 ## Conditions d'utilisation (FR — résumé)
@@ -41,4 +40,4 @@ votre nom ou sa modification pour redistribution sont interdites sans autorisati
 Le plugin et son code restent la propriété de Richard MAILLOT (Cryptomatte), tous droits réservés.
 Il est fourni « EN L'ÉTAT », sans garantie ; l'auteur ne saurait être tenu responsable de tout
 dommage lié à son utilisation. Le plugin ne collecte aucune donnée (voir PRIVACY.md).
-Contact : [votre e-mail de support].
+Contact : richardmaillot@mac.com
